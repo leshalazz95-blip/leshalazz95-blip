@@ -30,7 +30,6 @@
 - Работать с **баг-трекинговыми системами** (Jira)
 - Писать **SQL-запросы** (SELECT, JOIN, WHERE, GROUP BY)
 - Отлавливать и подменять трафик через **Charles Proxy**
-- Автоматизировать проверки на **Python** (Pytest, Requests)
 - Работать в Postman. Отправка запросов к API: (GET,POST,PUT/PATCH,DELETE) 
 ---
 
