@@ -30,7 +30,7 @@
 - Работаю с **баг-трекинговыми системами** (Jira)
 - Пишу **SQL-запросы** (SELECT, JOIN, WHERE, GROUP BY)
 - Могу отлавливать и подменять трафик через **Charles Proxy**
-- Использую Postman для отправка запросов к API: (GET,POST,PUT/PATCH,DELETE) 
+- Использую Postman для отправки запросов к API: (GET,POST,PUT/PATCH,DELETE) 
 ---
 
 ### 📫 Как со мной связаться
